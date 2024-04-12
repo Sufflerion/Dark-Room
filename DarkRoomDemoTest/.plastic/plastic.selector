@@ -1,0 +1,4 @@
+repository "DarkRoomDemoTest@unity_49BE82C9F9224B2F2EBE@cloud"
+  path "/"
+    br "/main"
+    co "/main"
